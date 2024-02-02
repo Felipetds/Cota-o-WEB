@@ -1,0 +1,423 @@
+{
+  "Moedas": {
+    "Afeganistão": {
+      "Sigla": "AFN",
+      "Nome": "Afghani"
+    },
+    "Albânia": {
+      "Sigla": "ALL",
+      "Nome": "Lek"
+    },
+    "Argentina": {
+      "Sigla": "ARS",
+      "Nome": "Peso Argentino"
+    },
+    "Austrália": {
+      "Sigla": "AUD",
+      "Nome": "Dólar Australiano"
+    },
+    "Bahamas": {
+      "Sigla": "BSD",
+      "Nome": "Dólar das Bahamas"
+    },
+    "Barbados": {
+      "Sigla": "BBD",
+      "Nome": "Dólar de Barbados"
+    },
+    "Belize": {
+      "Sigla": "BZD",
+      "Nome": "Dólar de Belize"
+    },
+    "Bolívia": {
+      "Sigla": "BOB",
+      "Nome": "Boliviano"
+    },
+    "Bósnia e Herzegovina": {
+      "Sigla": "BAM",
+      "Nome": "Marco Conversível"
+    },
+    "Brasil": {
+      "Sigla": "BRL",
+      "Nome": "Real Brasileiro"
+    },
+    "Brunei": {
+      "Sigla": "BND",
+      "Nome": "Dólar de Brunei"
+    },
+    "Bulgária": {
+      "Sigla": "BGN",
+      "Nome": "Lev Búlgaro"
+    },
+    "Cabo Verde": {
+      "Sigla": "CVE",
+      "Nome": "Escudo cabo-verdiano"
+    },
+    "Canadá": {
+      "Sigla": "CAD",
+      "Nome": "Dólar Canadense"
+    },
+    "Chile": {
+      "Sigla": "CLP",
+      "Nome": "Peso Chileno"
+    },
+    "China": {
+      "Sigla": "CNY",
+      "Nome": "Yuan Chinês"
+    },
+    "Colômbia": {
+      "Sigla": "COP",
+      "Nome": "Peso Colombiano"
+    },
+    "Costa Rica": {
+      "Sigla": "CRC",
+      "Nome": "Colón Costarriquenho"
+    },
+    "Croácia": {
+      "Sigla": "HRK",
+      "Nome": "Kuna Croata"
+    },
+    "Cuba": {
+      "Sigla": "CUP",
+      "Nome": "Peso Cubano"
+    },
+    "Dinamarca": {
+      "Sigla": "DKK",
+      "Nome": "Coroa Dinamarquesa"
+    },
+    "Djibouti": {
+      "Sigla": "DJF",
+      "Nome": "Franco do Djibouti"
+    },
+    "Dogecoin": {
+      "Sigla": "DOGE",
+      "Nome": "Dogecoin"
+    },
+    "Egito": {
+      "Sigla": "EGP",
+      "Nome": "Libra Egípcia"
+    },
+    "Emirados Árabes Unidos": {
+      "Sigla": "AED",
+      "Nome": "Dirham dos Emirados"
+    },
+    "Espanha": {
+      "Sigla": "ESP",
+      "Nome": "Peseta Espanhola"
+    },
+    "Estados Unidos": {
+      "Sigla": "USD",
+      "Nome": "Dólar Americano"
+    },
+    "Estonia": {
+      "Sigla": "EEK",
+      "Nome": "Coroa Estoniana"
+    },
+    "Ethiopia": {
+      "Sigla": "ETB",
+      "Nome": "Birr Etíope"
+    },
+    "Euro": {
+      "Sigla": "EUR",
+      "Nome": "Euro"
+    },
+    "Fiji": {
+      "Sigla": "FJD",
+      "Nome": "Dólar de Fiji"
+    },
+    "Filipinas": {
+      "Sigla": "PHP",
+      "Nome": "Peso Filipino"
+    },
+    "França": {
+      "Sigla": "FRF",
+      "Nome": "Franco Francês"
+    },
+    "Gâmbia": {
+      "Sigla": "GMD",
+      "Nome": "Dalasi da Gâmbia"
+    },
+    "Gana": {
+      "Sigla": "GHS",
+      "Nome": "Cedi Ganês"
+    },
+    "Geórgia": {
+      "Sigla": "GEL",
+      "Nome": "Lari Georgiano"
+    },
+    "Guatemala": {
+      "Sigla": "GTQ",
+      "Nome": "Quetzal Guatemalteco"
+    },
+    "Honduras": {
+      "Sigla": "HNL",
+      "Nome": "Lempira Hondurenha"
+    },
+    "Hong Kong": {
+      "Sigla": "HKD",
+      "Nome": "Dólar de Hong Kong"
+    },
+    "Hungria": {
+      "Sigla": "HUF",
+      "Nome": "Florim Húngaro"
+    },
+    "Indonésia": {
+      "Sigla": "IDR",
+      "Nome": "Rupia Indonésia"
+    },
+    "Iraque": {
+      "Sigla": "IQD",
+      "Nome": "Dinar Iraquiano"
+    },
+    "Irã": {
+      "Sigla": "IRR",
+      "Nome": "Rial Iraniano"
+    },
+    "Islândia": {
+      "Sigla": "ISK",
+      "Nome": "Coroa Islandesa"
+    },
+    "Israel": {
+      "Sigla": "ILS",
+      "Nome": "Novo Shekel Israelense"
+    },
+    "Itália": {
+      "Sigla": "ITL",
+      "Nome": "Lira Italiana"
+    },
+    "Jamaica": {
+      "Sigla": "JMD",
+      "Nome": "Dólar Jamaicano"
+    },
+    "Japão": {
+      "Sigla": "JPY",
+      "Nome": "Iene Japonês"
+    },
+    "Jordânia": {
+      "Sigla": "JOD",
+      "Nome": "Dinar Jordaniano"
+    },
+    "Kuwait": {
+      "Sigla": "KWD",
+      "Nome": "Dinar Kuwaitiano"
+    },
+    "Laos": {
+      "Sigla": "LAK",
+      "Nome": "Kip Laosiano"
+    },
+    "Líbano": {
+      "Sigla": "LBP",
+      "Nome": "Libra Libanesa"
+    },
+    "Líbia": {
+      "Sigla": "LYD",
+      "Nome": "Dinar Líbio"
+    },
+    "Lituânia": {
+      "Sigla": "LTL",
+      "Nome": "Litas Lituano"
+    },
+    "Luxemburgo": {
+      "Sigla": "LUF",
+      "Nome": "Franco Luxemburguês"
+    },
+    "Macedônia": {
+      "Sigla": "MKD",
+      "Nome": "Denar Macedônio"
+    },
+    "Madagáscar": {
+      "Sigla": "MGA",
+      "Nome": "Ariary Madagascarense"
+    },
+    "Maldivas": {
+      "Sigla": "MVR",
+      "Nome": "Rufiyaa Maldiva"
+    },
+    "Malásia": {
+      "Sigla": "MYR",
+      "Nome": "Ringgit Malaio"
+    },
+    "Maurícia": {
+      "Sigla": "MUR",
+      "Nome": "Rúpia Mauriciana"
+    },
+    "México": {
+      "Sigla": "MXN",
+      "Nome": "Peso Mexicano"
+    },
+    "Moldávia": {
+      "Sigla": "MDL",
+      "Nome": "Leu Moldavo"
+    },
+    "Mongólia": {
+      "Sigla": "MNT",
+      "Nome": "Tugrik Mongol"
+    },
+    "Namíbia": {
+      "Sigla": "NAD",
+      "Nome": "Dólar Namíbio"
+    },
+    "Nepal": {
+      "Sigla": "NPR",
+      "Nome": "Rúpia Nepalesa"
+    },
+    "Nicarágua": {
+      "Sigla": "NIO",
+      "Nome": "Córdoba Nicaraguense"
+    },
+    "Nigéria": {
+      "Sigla": "NGN",
+      "Nome": "Naira Nigeriana"
+    },
+    "Noruega": {
+      "Sigla": "NOK",
+      "Nome": "Coroa Norueguesa"
+    },
+    "Nova Zelândia": {
+      "Sigla": "NZD",
+      "Nome": "Dólar Neozelandês"
+    },
+    "Omã": {
+      "Sigla": "OMR",
+      "Nome": "Rial Omanense"
+    },
+    "Panamá": {
+      "Sigla": "PAB",
+      "Nome": "Balboa Panamenho"
+    },
+    "Paquistão": {
+      "Sigla": "PKR",
+      "Nome": "Rúpia Paquistanesa"
+    },
+    "Paraguai": {
+      "Sigla": "PYG",
+      "Nome": "Guarani Paraguaio"
+    },
+    "Peru": {
+      "Sigla": "PEN",
+      "Nome": "Sol do Peru"
+    },
+    "Polônia": {
+      "Sigla": "PLN",
+      "Nome": "Zloty Polonês"
+    },
+    "Portugal": {
+      "Sigla": "PTE",
+      "Nome": "Escudo Português"
+    },
+    "Qatar": {
+      "Sigla": "QAR",
+      "Nome": "Rial Catariano"
+    },
+    "Quirguistão": {
+      "Sigla": "KGS",
+      "Nome": "Som Quirguiz"
+    },
+    "Reino Unido": {
+      "Sigla": "GBP",
+      "Nome": "Libra Esterlina"
+    },
+    "República Dominicana": {
+      "Sigla": "DOP",
+      "Nome": "Peso Dominicano"
+    },
+    "República Tcheca": {
+      "Sigla": "CZK",
+      "Nome": "Coroa Tcheca"
+    },
+    "Romênia": {
+      "Sigla": "RON",
+      "Nome": "Leu Romeno"
+    },
+    "Rússia": {
+      "Sigla": "RUB",
+      "Nome": "Rublo Russo"
+    },
+    "Sérvia": {
+      "Sigla": "RSD",
+      "Nome": "Dinar Sérvio"
+    },
+    "Singapura": {
+      "Sigla": "SGD",
+      "Nome": "Dólar de Singapura"
+    },
+    "Síria": {
+      "Sigla": "SYP",
+      "Nome": "Libra Síria"
+    },
+    "Sri Lanka": {
+      "Sigla": "LKR",
+      "Nome": "Rúpia do Sri Lanka"
+    },
+    "Sudão": {
+      "Sigla": "SDG",
+      "Nome": "Libra Sudanês"
+    },
+    "Suécia": {
+      "Sigla": "SEK",
+      "Nome": "Coroa Sueca"
+    },
+    "Suíça": {
+      "Sigla": "CHF",
+      "Nome": "Franco Suíço"
+    },
+    "Suriname": {
+      "Sigla": "SRD",
+      "Nome": "Dólar do Suriname"
+    },
+    "Tailândia": {
+      "Sigla": "THB",
+      "Nome": "Baht Tailandês"
+    },
+    "Taiwan": {
+      "Sigla": "TWD",
+      "Nome": "Novo Dólar de Taiwan"
+    },
+    "Tanzânia": {
+      "Sigla": "TZS",
+      "Nome": "Xelim Tanzaniano"
+    },
+    "Tunísia": {
+      "Sigla": "TND",
+      "Nome": "Dinar Tunisiano"
+    },
+    "Turquia": {
+      "Sigla": "TRY",
+      "Nome": "Lira Turca"
+    },
+    "Ucrânia": {
+      "Sigla": "UAH",
+      "Nome": "Hryvnia Ucraniano"
+    },
+    "Uganda": {
+      "Sigla": "UGX",
+      "Nome": "Xelim Ugandense"
+    },
+    "Uruguai": {
+      "Sigla": "UYU",
+      "Nome": "Peso Uruguaio"
+    },
+    "Uzbequistão": {
+      "Sigla": "UZS",
+      "Nome": "Som Uzbeque"
+    },
+    "Vanuatu": {
+      "Sigla": "VUV",
+      "Nome": "Vatu de Vanuatu"
+    },
+    "Venezuela": {
+      "Sigla": "VES",
+    "Vietnã": {
+      "Sigla": "VND",
+      "Nome": "Dong Vietnamita"
+    },
+    "Zâmbia": {
+      "Sigla": "ZMW",
+      "Nome": "Kwacha Zambiano"
+    },
+    "Zimbábue": {
+      "Sigla": "ZWL",
+      "Nome": "Dólar do Zimbábue"
+    }
+  }
+}
+}
